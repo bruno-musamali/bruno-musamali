@@ -7,6 +7,7 @@ I am passionate about data analysis, statistical modeling, and building AI-drive
 ## Skills
 
 - Python
+- JavaScript
 - Data Analysis
 - Statistics
 - SQL
