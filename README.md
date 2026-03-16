@@ -34,5 +34,9 @@ I am passionate about data analysis, statistical modeling, and building AI-drive
 
 ## Connect with me
 
-- LinkedIn
-- GitHub
+- linkedin.com/in/bruno-musamali-2950a0354
+- [GitHub](https://github.com/bruno-musamali)
+- brunomusamali@gmail.com
+- +254700083910
+
+
