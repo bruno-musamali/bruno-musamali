@@ -30,7 +30,7 @@ I am passionate about data analysis, statistical modeling, and building AI-drive
 
 ## Portfolio
 
-🌐[ https://bruno-musamali.github.io/statistics-portfolio](https://bruno-musamali.github.io/Data-Statistics-Portfolio/)](https://bruno-musamali.github.io/Bruno-Musamali-Statistics-Data-AI-Portfolio/)
+🌐(https://bruno-musamali.github.io/Data-Statistics-Portfolio/)](https://bruno-musamali.github.io/Bruno-Musamali-Statistics-Data-AI-Portfolio/)
 
 ## Connect with me
 
